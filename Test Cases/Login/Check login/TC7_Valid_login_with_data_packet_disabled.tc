@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC7_Valid_login_with_data_packet_disabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bbb3368-08eb-4659-a239-94015b1b4302</testCaseGuid>
+</TestCaseEntity>

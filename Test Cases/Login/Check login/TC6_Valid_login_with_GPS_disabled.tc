@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6_Valid_login_with_GPS_disabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6dec4aa6-ba46-48ee-9ab3-60b980baa2eb</testCaseGuid>
+</TestCaseEntity>

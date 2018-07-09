@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Repo Sumsel</description>
+   <name>TC1_Valid_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb84c1a3-01b4-4e57-92fa-02693467c0f9</testCaseGuid>
+</TestCaseEntity>

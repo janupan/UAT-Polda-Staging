@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5_Valid_login_with_administrator_account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c554224c-4e77-46e2-8b3e-08af0064a904</testCaseGuid>
+</TestCaseEntity>
